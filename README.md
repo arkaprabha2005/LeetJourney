@@ -16,6 +16,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
@@ -65,4 +66,12 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
