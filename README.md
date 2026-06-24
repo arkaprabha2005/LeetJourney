@@ -19,6 +19,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/arkaprabha2005/LeetJourney/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/0258-add-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -85,6 +86,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/arkaprabha2005/LeetJourney/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/arkaprabha2005/LeetJourney/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/1137-n-th-tribonacci-number) |
@@ -92,4 +94,8 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/arkaprabha2005/LeetJourney/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
