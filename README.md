@@ -18,6 +18,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1512-number-of-good-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/1512-number-of-good-pairs) |
 | [1773-count-items-matching-a-rule](https://github.com/arkaprabha2005/LeetJourney/tree/master/1773-count-items-matching-a-rule) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3861-minimum-capacity-box](https://github.com/arkaprabha2005/LeetJourney/tree/master/3861-minimum-capacity-box) |
 ## Math
 |  |
 | ------- |
