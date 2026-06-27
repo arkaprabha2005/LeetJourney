@@ -17,6 +17,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0560-subarray-sum-equals-k](https://github.com/arkaprabha2005/LeetJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/arkaprabha2005/LeetJourney/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/0746-min-cost-climbing-stairs) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/arkaprabha2005/LeetJourney/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/1512-number-of-good-pairs) |
@@ -41,6 +42,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0525-contiguous-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arkaprabha2005/LeetJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/arkaprabha2005/LeetJourney/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/arkaprabha2005/LeetJourney/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -62,6 +64,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0451-sort-characters-by-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arkaprabha2005/LeetJourney/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/arkaprabha2005/LeetJourney/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/1512-number-of-good-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/arkaprabha2005/LeetJourney/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3737-count-subarrays-with-majority-element-i) |
