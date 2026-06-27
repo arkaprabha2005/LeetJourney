@@ -15,6 +15,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0442-find-all-duplicates-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arkaprabha2005/LeetJourney/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/arkaprabha2005/LeetJourney/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/0746-min-cost-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1480-running-sum-of-1d-array) |
@@ -39,6 +40,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0303-range-sum-query-immutable](https://github.com/arkaprabha2005/LeetJourney/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arkaprabha2005/LeetJourney/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/arkaprabha2005/LeetJourney/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
