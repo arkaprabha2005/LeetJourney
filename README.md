@@ -29,6 +29,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/arkaprabha2005/LeetJourney/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/0258-add-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/1137-n-th-tribonacci-number) |
