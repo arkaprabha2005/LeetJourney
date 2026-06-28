@@ -6,6 +6,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arkaprabha2005/LeetJourney/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/arkaprabha2005/LeetJourney/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/0063-unique-paths-ii) |
 | [0169-majority-element](https://github.com/arkaprabha2005/LeetJourney/tree/master/0169-majority-element) |
@@ -60,6 +61,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arkaprabha2005/LeetJourney/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/arkaprabha2005/LeetJourney/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/arkaprabha2005/LeetJourney/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/0347-top-k-frequent-elements) |
