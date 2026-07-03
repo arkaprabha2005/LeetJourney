@@ -27,6 +27,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1773-count-items-matching-a-rule](https://github.com/arkaprabha2005/LeetJourney/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/arkaprabha2005/LeetJourney/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arkaprabha2005/LeetJourney/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/arkaprabha2005/LeetJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/arkaprabha2005/LeetJourney/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3861-minimum-capacity-box](https://github.com/arkaprabha2005/LeetJourney/tree/master/3861-minimum-capacity-box) |
@@ -61,6 +62,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1773-count-items-matching-a-rule](https://github.com/arkaprabha2005/LeetJourney/tree/master/1773-count-items-matching-a-rule) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arkaprabha2005/LeetJourney/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/arkaprabha2005/LeetJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2810-faulty-keyboard](https://github.com/arkaprabha2005/LeetJourney/tree/master/2810-faulty-keyboard) |
 | [3612-process-string-with-special-operations-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3612-process-string-with-special-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/arkaprabha2005/LeetJourney/tree/master/3794-reverse-string-prefix) |
