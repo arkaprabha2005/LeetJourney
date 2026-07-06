@@ -7,6 +7,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arkaprabha2005/LeetJourney/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/arkaprabha2005/LeetJourney/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/arkaprabha2005/LeetJourney/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/0063-unique-paths-ii) |
 | [0169-majority-element](https://github.com/arkaprabha2005/LeetJourney/tree/master/0169-majority-element) |
@@ -171,4 +172,8 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/arkaprabha2005/LeetJourney/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
