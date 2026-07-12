@@ -44,6 +44,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [2651-calculate-delayed-arrival-time](https://github.com/arkaprabha2005/LeetJourney/tree/master/2651-calculate-delayed-arrival-time) |
 | [3492-maximum-containers-on-a-ship](https://github.com/arkaprabha2005/LeetJourney/tree/master/3492-maximum-containers-on-a-ship) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0974-subarray-sums-divisible-by-k](https://github.com/arkaprabha2005/LeetJourney/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arkaprabha2005/LeetJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2810-faulty-keyboard](https://github.com/arkaprabha2005/LeetJourney/tree/master/2810-faulty-keyboard) |
 | [3612-process-string-with-special-operations-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3612-process-string-with-special-operations-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/arkaprabha2005/LeetJourney/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
