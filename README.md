@@ -43,6 +43,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1512-number-of-good-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/1512-number-of-good-pairs) |
 | [2651-calculate-delayed-arrival-time](https://github.com/arkaprabha2005/LeetJourney/tree/master/2651-calculate-delayed-arrival-time) |
 | [3492-maximum-containers-on-a-ship](https://github.com/arkaprabha2005/LeetJourney/tree/master/3492-maximum-containers-on-a-ship) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/arkaprabha2005/LeetJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -135,6 +136,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/arkaprabha2005/LeetJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
