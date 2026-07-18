@@ -28,6 +28,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1773-count-items-matching-a-rule](https://github.com/arkaprabha2005/LeetJourney/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/arkaprabha2005/LeetJourney/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arkaprabha2005/LeetJourney/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arkaprabha2005/LeetJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/arkaprabha2005/LeetJourney/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -42,6 +43,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1137-n-th-tribonacci-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/arkaprabha2005/LeetJourney/tree/master/2651-calculate-delayed-arrival-time) |
 | [3492-maximum-containers-on-a-ship](https://github.com/arkaprabha2005/LeetJourney/tree/master/3492-maximum-containers-on-a-ship) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arkaprabha2005/LeetJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -140,6 +142,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arkaprabha2005/LeetJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
