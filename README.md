@@ -67,6 +67,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/arkaprabha2005/LeetJourney/tree/master/0520-detect-capital) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/arkaprabha2005/LeetJourney/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1773-count-items-matching-a-rule](https://github.com/arkaprabha2005/LeetJourney/tree/master/1773-count-items-matching-a-rule) |
@@ -191,4 +192,16 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/arkaprabha2005/LeetJourney/tree/master/0035-search-insert-position) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
