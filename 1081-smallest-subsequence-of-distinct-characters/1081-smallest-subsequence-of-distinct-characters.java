@@ -27,9 +27,10 @@ class Solution {
         }
         StringBuilder sb=new StringBuilder();
         while(!stack.isEmpty()){
-            sb.insert(0,stack.pop());
+            sb.append(stack.pop());
         }
-        return sb.toString();
+
+    return sb.reverse().toString();
 
 
 
