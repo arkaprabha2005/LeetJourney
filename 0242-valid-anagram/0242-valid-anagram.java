@@ -11,7 +11,7 @@ class Solution {
         }
 
         for(int i:arr){
-            if(i>0){
+            if(i!=0){
                 return false;
             }
         }
