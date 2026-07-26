@@ -18,6 +18,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0442-find-all-duplicates-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arkaprabha2005/LeetJourney/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/arkaprabha2005/LeetJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/arkaprabha2005/LeetJourney/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/0746-min-cost-climbing-stairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arkaprabha2005/LeetJourney/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -41,6 +42,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0009-palindrome-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/arkaprabha2005/LeetJourney/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/0258-add-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/arkaprabha2005/LeetJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/1512-number-of-good-pairs) |
@@ -121,6 +123,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0347-top-k-frequent-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/arkaprabha2005/LeetJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
