@@ -24,6 +24,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0974-subarray-sums-divisible-by-k](https://github.com/arkaprabha2005/LeetJourney/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1260-shift-2d-grid](https://github.com/arkaprabha2005/LeetJourney/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -124,6 +125,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0442-find-all-duplicates-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arkaprabha2005/LeetJourney/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -132,6 +134,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
