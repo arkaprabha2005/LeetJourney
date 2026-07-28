@@ -81,6 +81,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arkaprabha2005/LeetJourney/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arkaprabha2005/LeetJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2810-faulty-keyboard](https://github.com/arkaprabha2005/LeetJourney/tree/master/2810-faulty-keyboard) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3612-process-string-with-special-operations-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/arkaprabha2005/LeetJourney/tree/master/3794-reverse-string-prefix) |
@@ -127,6 +128,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0628-maximum-product-of-three-numbers](https://github.com/arkaprabha2005/LeetJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -222,4 +224,8 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/arkaprabha2005/LeetJourney/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
