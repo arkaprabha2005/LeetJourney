@@ -12,6 +12,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0063-unique-paths-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/0063-unique-paths-ii) |
 | [0169-majority-element](https://github.com/arkaprabha2005/LeetJourney/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/arkaprabha2005/LeetJourney/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/arkaprabha2005/LeetJourney/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/arkaprabha2005/LeetJourney/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/0347-top-k-frequent-elements) |
@@ -115,12 +116,14 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arkaprabha2005/LeetJourney/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arkaprabha2005/LeetJourney/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/arkaprabha2005/LeetJourney/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -134,6 +137,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -145,6 +149,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
