@@ -74,6 +74,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | ------- |
 | [0242-valid-anagram](https://github.com/arkaprabha2005/LeetJourney/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/arkaprabha2005/LeetJourney/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/arkaprabha2005/LeetJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/arkaprabha2005/LeetJourney/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -97,6 +98,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0169-majority-element](https://github.com/arkaprabha2005/LeetJourney/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/arkaprabha2005/LeetJourney/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/arkaprabha2005/LeetJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0525-contiguous-array) |
@@ -113,6 +115,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | ------- |
 | [0169-majority-element](https://github.com/arkaprabha2005/LeetJourney/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/arkaprabha2005/LeetJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -241,4 +244,8 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/arkaprabha2005/LeetJourney/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
