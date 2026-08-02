@@ -229,6 +229,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arkaprabha2005/LeetJourney/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/arkaprabha2005/LeetJourney/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -255,4 +256,16 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/arkaprabha2005/LeetJourney/tree/master/0877-stone-game) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arkaprabha2005/LeetJourney/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arkaprabha2005/LeetJourney/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arkaprabha2005/LeetJourney/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
