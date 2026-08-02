@@ -22,6 +22,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0628-maximum-product-of-three-numbers](https://github.com/arkaprabha2005/LeetJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/arkaprabha2005/LeetJourney/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/arkaprabha2005/LeetJourney/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arkaprabha2005/LeetJourney/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1260-shift-2d-grid](https://github.com/arkaprabha2005/LeetJourney/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -45,6 +46,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0062-unique-paths](https://github.com/arkaprabha2005/LeetJourney/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arkaprabha2005/LeetJourney/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/arkaprabha2005/LeetJourney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/1512-number-of-good-pairs) |
@@ -183,6 +185,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0063-unique-paths-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/arkaprabha2005/LeetJourney/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/arkaprabha2005/LeetJourney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/arkaprabha2005/LeetJourney/tree/master/1143-longest-common-subsequence) |
 ## Memoization
@@ -248,4 +251,8 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/arkaprabha2005/LeetJourney/tree/master/0387-first-unique-character-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arkaprabha2005/LeetJourney/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
