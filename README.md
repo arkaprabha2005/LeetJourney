@@ -10,6 +10,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0035-search-insert-position](https://github.com/arkaprabha2005/LeetJourney/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/arkaprabha2005/LeetJourney/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/0063-unique-paths-ii) |
+| [0118-pascals-triangle](https://github.com/arkaprabha2005/LeetJourney/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/arkaprabha2005/LeetJourney/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/arkaprabha2005/LeetJourney/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0215-kth-largest-element-in-an-array) |
@@ -186,6 +187,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | ------- |
 | [0062-unique-paths](https://github.com/arkaprabha2005/LeetJourney/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/0063-unique-paths-ii) |
+| [0118-pascals-triangle](https://github.com/arkaprabha2005/LeetJourney/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/arkaprabha2005/LeetJourney/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/arkaprabha2005/LeetJourney/tree/master/0877-stone-game) |
