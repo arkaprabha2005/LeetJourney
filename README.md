@@ -7,6 +7,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arkaprabha2005/LeetJourney/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/arkaprabha2005/LeetJourney/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/arkaprabha2005/LeetJourney/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/arkaprabha2005/LeetJourney/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/0063-unique-paths-ii) |
@@ -77,6 +78,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/arkaprabha2005/LeetJourney/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/arkaprabha2005/LeetJourney/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/arkaprabha2005/LeetJourney/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/arkaprabha2005/LeetJourney/tree/master/0387-first-unique-character-in-a-string) |
@@ -302,4 +304,8 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0101-symmetric-tree](https://github.com/arkaprabha2005/LeetJourney/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arkaprabha2005/LeetJourney/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/arkaprabha2005/LeetJourney/tree/master/0226-invert-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/arkaprabha2005/LeetJourney/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
