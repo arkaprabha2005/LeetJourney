@@ -36,6 +36,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arkaprabha2005/LeetJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/arkaprabha2005/LeetJourney/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3731-find-missing-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3861-minimum-capacity-box](https://github.com/arkaprabha2005/LeetJourney/tree/master/3861-minimum-capacity-box) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -111,6 +112,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1636-sort-array-by-increasing-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/arkaprabha2005/LeetJourney/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -144,6 +146,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
