@@ -35,6 +35,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1636-sort-array-by-increasing-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1773-count-items-matching-a-rule](https://github.com/arkaprabha2005/LeetJourney/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/arkaprabha2005/LeetJourney/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arkaprabha2005/LeetJourney/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arkaprabha2005/LeetJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -177,6 +178,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0258-add-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/arkaprabha2005/LeetJourney/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/arkaprabha2005/LeetJourney/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/arkaprabha2005/LeetJourney/tree/master/2810-faulty-keyboard) |
 | [3612-process-string-with-special-operations-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
