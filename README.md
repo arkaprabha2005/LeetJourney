@@ -55,6 +55,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2469-convert-the-temperature](https://github.com/arkaprabha2005/LeetJourney/tree/master/2469-convert-the-temperature) |
 | [2651-calculate-delayed-arrival-time](https://github.com/arkaprabha2005/LeetJourney/tree/master/2651-calculate-delayed-arrival-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3345-smallest-divisible-digit-product-i) |
