@@ -1,6 +1,6 @@
 class Solution {
     public int missingInteger(int[] nums) {
-        int[] arr=new int[100000];
+        int[] arr=new int[51];
         for(int i:nums){
             arr[i]++;
         }
@@ -15,7 +15,9 @@ class Solution {
             
         }
 
-        while(arr[sum]!=0) sum++;
+        while(sum<arr.length && arr[sum]!=0){
+            sum++;
+        }
         return sum;
     }
 }
