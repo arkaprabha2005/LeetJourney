@@ -40,6 +40,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arkaprabha2005/LeetJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/arkaprabha2005/LeetJourney/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arkaprabha2005/LeetJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -119,6 +120,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1512-number-of-good-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/arkaprabha2005/LeetJourney/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arkaprabha2005/LeetJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/3731-find-missing-elements) |
@@ -238,6 +240,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
