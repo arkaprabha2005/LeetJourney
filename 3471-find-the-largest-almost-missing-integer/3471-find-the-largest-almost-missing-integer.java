@@ -26,16 +26,13 @@ class Solution {
 
         
         if(k>1){
-            if(h1.get(nums[0])==1 && h1.get(nums[nums.length-1])==1){
-                return Math.max(nums[0],nums[nums.length-1]);
+            if(h1.get(nums[nums.length-1])==1){
+                ans=nums[nums.length-1];
             }
-            if(h1.get(nums[0])>1 && h1.get(nums[nums.length-1])==1){
-                return nums[nums.length-1];
+            if(h1.get(nums[0])==1){
+                ans=Math.max(ans,nums[0]);
             }
-            if(h1.get(nums[0])==1 && h1.get(nums[nums.length-1])>1){
-                return nums[0];
-            }
-            return -1;
+            return ans;
         }
         
         return ans;
