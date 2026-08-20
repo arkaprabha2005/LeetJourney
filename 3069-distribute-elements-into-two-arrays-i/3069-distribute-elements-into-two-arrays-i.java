@@ -13,14 +13,10 @@ class Solution {
             else arr2[a2++]=nums[i];
         }
         int[] result=new int[nums.length];
-        for(int j=0;j<nums.length;j++){
-            if(j<a1){
-                result[j]=arr1[j];
-            }
-            if(j>=a1){
-                result[j]=arr2[j-a1];
-            }
-        }
+        for(int j=0;j<a1;j++) result[j]=arr1[j];
+
+        for(int j=0;j<a2;j++) result[a1+j]=arr2[j];
+        
         return result;
         
     }
