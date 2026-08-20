@@ -42,6 +42,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [2956-find-common-elements-between-two-arrays](https://github.com/arkaprabha2005/LeetJourney/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arkaprabha2005/LeetJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arkaprabha2005/LeetJourney/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/arkaprabha2005/LeetJourney/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/3731-find-missing-elements) |
@@ -190,6 +191,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1920-build-array-from-permutation](https://github.com/arkaprabha2005/LeetJourney/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/arkaprabha2005/LeetJourney/tree/master/2810-faulty-keyboard) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
