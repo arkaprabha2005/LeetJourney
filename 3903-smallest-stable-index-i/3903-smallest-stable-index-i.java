@@ -11,10 +11,10 @@ class Solution {
         }
         int i=0;
         while(i<nums.length){
+            max = Math.max(max, nums[i]);
             if(max-min_arr[i]<=k){
                 return i;
             }
-            max = Math.max(max, nums[i]);
             i++;
         }
         return -1;
