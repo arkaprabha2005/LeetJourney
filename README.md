@@ -13,6 +13,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0063-unique-paths-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/arkaprabha2005/LeetJourney/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/arkaprabha2005/LeetJourney/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/arkaprabha2005/LeetJourney/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/arkaprabha2005/LeetJourney/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/0215-kth-largest-element-in-an-array) |
@@ -125,6 +126,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | ------- |
 | [0001-two-sum](https://github.com/arkaprabha2005/LeetJourney/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/arkaprabha2005/LeetJourney/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/arkaprabha2005/LeetJourney/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/arkaprabha2005/LeetJourney/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/arkaprabha2005/LeetJourney/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/0347-top-k-frequent-elements) |
@@ -356,4 +358,8 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/arkaprabha2005/LeetJourney/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arkaprabha2005/LeetJourney/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
