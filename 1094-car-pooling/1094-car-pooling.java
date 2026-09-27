@@ -5,12 +5,12 @@ class Solution {
             arr[i[1]]+=i[0];
             arr[i[2]]-=i[0];
         }
-        int max=Integer.MIN_VALUE;
+        //int max=Integer.MIN_VALUE;
         int sum=0;
         for(int i:arr){
             sum+=i;
-            max=Math.max(max,sum);
+            if(sum>capacity) return false;
         }
-        return max<=capacity;      
+        return true;      
     }
 }
