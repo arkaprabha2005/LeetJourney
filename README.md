@@ -102,6 +102,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arkaprabha2005/LeetJourney/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/arkaprabha2005/LeetJourney/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/arkaprabha2005/LeetJourney/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/arkaprabha2005/LeetJourney/tree/master/0387-first-unique-character-in-a-string) |
@@ -281,6 +282,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/arkaprabha2005/LeetJourney/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/arkaprabha2005/LeetJourney/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arkaprabha2005/LeetJourney/tree/master/0145-binary-tree-postorder-traversal) |
@@ -372,5 +374,6 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
