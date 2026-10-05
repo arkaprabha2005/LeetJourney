@@ -108,6 +108,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0387-first-unique-character-in-a-string](https://github.com/arkaprabha2005/LeetJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/arkaprabha2005/LeetJourney/tree/master/0520-detect-capital) |
+| [0856-score-of-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/arkaprabha2005/LeetJourney/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -287,6 +288,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0144-binary-tree-preorder-traversal](https://github.com/arkaprabha2005/LeetJourney/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arkaprabha2005/LeetJourney/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/arkaprabha2005/LeetJourney/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -375,5 +377,6 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
