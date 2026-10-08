@@ -62,6 +62,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | ------- |
 | [0009-palindrome-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/arkaprabha2005/LeetJourney/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arkaprabha2005/LeetJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/arkaprabha2005/LeetJourney/tree/master/0877-stone-game) |
@@ -234,6 +235,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | ------- |
 | [0062-unique-paths](https://github.com/arkaprabha2005/LeetJourney/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/arkaprabha2005/LeetJourney/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/arkaprabha2005/LeetJourney/tree/master/0198-house-robber) |
@@ -244,6 +246,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
