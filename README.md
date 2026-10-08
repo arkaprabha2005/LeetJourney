@@ -110,6 +110,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0520-detect-capital](https://github.com/arkaprabha2005/LeetJourney/tree/master/0520-detect-capital) |
 | [0856-score-of-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arkaprabha2005/LeetJourney/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/arkaprabha2005/LeetJourney/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -291,6 +292,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0316-remove-duplicate-letters](https://github.com/arkaprabha2005/LeetJourney/tree/master/0316-remove-duplicate-letters) |
 | [0856-score-of-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arkaprabha2005/LeetJourney/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -382,5 +384,6 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0020-valid-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arkaprabha2005/LeetJourney/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
