@@ -115,6 +115,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/arkaprabha2005/LeetJourney/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arkaprabha2005/LeetJourney/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/arkaprabha2005/LeetJourney/tree/master/1773-count-items-matching-a-rule) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arkaprabha2005/LeetJourney/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -297,6 +298,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arkaprabha2005/LeetJourney/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arkaprabha2005/LeetJourney/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
@@ -304,6 +306,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0316-remove-duplicate-letters](https://github.com/arkaprabha2005/LeetJourney/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arkaprabha2005/LeetJourney/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arkaprabha2005/LeetJourney/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arkaprabha2005/LeetJourney/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -388,5 +391,6 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0856-score-of-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/arkaprabha2005/LeetJourney/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arkaprabha2005/LeetJourney/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arkaprabha2005/LeetJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
