@@ -1,0 +1,12 @@
+class Solution {
+    public int getSum(int a, int b) {
+        int sum=a^b;
+        int carry=(a&b)<<1;
+        while(carry!=0){
+            int ass=sum;
+            sum=sum^carry;
+            carry=(ass&carry)<<1;
+        }
+        return sum;
+    }
+}
