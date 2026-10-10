@@ -65,6 +65,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [0070-climbing-stairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/arkaprabha2005/LeetJourney/tree/master/0371-sum-of-two-integers) |
+| [0507-perfect-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arkaprabha2005/LeetJourney/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/arkaprabha2005/LeetJourney/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/1137-n-th-tribonacci-number) |
