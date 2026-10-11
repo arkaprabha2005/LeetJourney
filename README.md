@@ -42,6 +42,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/arkaprabha2005/LeetJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/arkaprabha2005/LeetJourney/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/arkaprabha2005/LeetJourney/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arkaprabha2005/LeetJourney/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -373,6 +374,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
