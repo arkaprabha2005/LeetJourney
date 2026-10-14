@@ -82,6 +82,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arkaprabha2005/LeetJourney/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/arkaprabha2005/LeetJourney/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arkaprabha2005/LeetJourney/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arkaprabha2005/LeetJourney/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -313,6 +314,7 @@ Documenting My LeetCode Journey - Created using [LeetHub v2](https://github.com/
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arkaprabha2005/LeetJourney/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
