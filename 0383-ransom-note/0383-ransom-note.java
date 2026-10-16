@@ -10,6 +10,7 @@ class Solution {
             h1.put(a,h1.get(a)-1);
         }
         return true;
-        
+        //__________________Or just use a character array of 26 size just to 
+        //do the same shee honestly
     }
 }
