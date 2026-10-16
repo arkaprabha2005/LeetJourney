@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/arkaprabha2005/LeetJourney/tree/master/0383-ransom-note) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/arkaprabha2005/LeetJourney/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/arkaprabha2005/LeetJourney/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
