@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/arkaprabha2005/LeetJourney/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/arkaprabha2005/LeetJourney/tree/master/0383-ransom-note) |
+| [2409-count-days-spent-together](https://github.com/arkaprabha2005/LeetJourney/tree/master/2409-count-days-spent-together) |
 ## Counting
 |  |
 | ------- |
