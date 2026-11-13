@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/arkaprabha2005/LeetJourney/tree/master/1267-count-servers-that-communicate) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arkaprabha2005/LeetJourney/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arkaprabha2005/LeetJourney/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arkaprabha2005/LeetJourney/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
 | ------- |
