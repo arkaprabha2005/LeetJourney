@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/arkaprabha2005/LeetJourney/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/arkaprabha2005/LeetJourney/tree/master/0383-ransom-note) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/arkaprabha2005/LeetJourney/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/arkaprabha2005/LeetJourney/tree/master/2409-count-days-spent-together) |
 ## Counting
 |  |
