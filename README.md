@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/arkaprabha2005/LeetJourney/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arkaprabha2005/LeetJourney/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/arkaprabha2005/LeetJourney/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/arkaprabha2005/LeetJourney/tree/master/3360-stone-removal-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/arkaprabha2005/LeetJourney/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/arkaprabha2005/LeetJourney/tree/master/1267-count-servers-that-communicate) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/arkaprabha2005/LeetJourney/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
